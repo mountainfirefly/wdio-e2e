@@ -1,0 +1,112 @@
+{
+  "dev": {
+      "hkUser": {
+          "email": "dikshitashirodkarauth@yopmail.com",
+          "password": "Password01+",
+          "giveName": "Dikshita",
+          "lastName": "Shirodkar",
+          "homeCountry": "India",
+          "hostCountry": "India",
+          "accountType": "Checking",
+          "currency": "AED",
+          "crownContacts": ["Daisy GB", "Derrin Limbrick", "Alex HK"],
+          "clientContacts": "Sample HR"
+      },
+      "euUser": {
+          "email": "euauth0@yopmail.com",
+          "password": "Password01+"
+      },
+      "namUser":{
+        "email": "namauth0@yopmail.com",
+        "password": "Password01+"
+      },
+      "globalUser": {
+        "email": "globalauth0@yopmail.com",
+        "password": "Password01+"
+      },
+      "nonSharedUser": {
+        "email": "oricateststguserone@yopmail.com",
+        "password": "Password01+"
+      },
+      "noContractUser": {
+        "email": "nabteststguserone@yopmail.com",
+        "password": "Password01+"
+      },
+      "hyphonEUsers": {
+        "email": "ASIA.HRGlobal@tsmc.stg-E",
+        "password": "Password01+"
+      },
+      "hrUser": {
+        "email": "HR.ASIA@SCB.stg",
+        "password": "Password01+"
+      },
+      "delegateUser": {
+        "email": "Dixita@yopmail.com",
+        "password": "Password01+"
+      },
+      "invalid": {
+          "invalidEmail": "Asasjd@sd.com",
+          "invalidPassword": "Passwo",
+          "invalidEmailFormat": "Adf"
+      },
+      "bankAccountDetails": {
+          "bankName": "Srijan test",
+          "bankAccountName": "Merry",
+          "nickName": "Test Nick",
+          "swiftCode": "IDIBINBBCTY",
+          "accountNo": "00000999999",
+          "ibanNo": "INR010199990000",
+          "phone": "90230129301",
+          "email": "Dikshita0710@yopmail.com",
+          "street": "LandView",
+          "city": "Vasco",
+          "zip": "3429384",
+          "country": "Afghanistan"
+      },
+      "expenseDetails": {
+          "expenseReportName": "Expense Travel",
+          "bankCountry": "Other Countries - Bangladesh"
+      }
+  },
+  "uat": {
+      "hkUser": {
+          "email": "uatasia@yopmail.com ",
+          "password": "Password09+",
+          "giveName": "asd",
+          "lastName": "asd",
+          "homeCountry": "Australia",
+          "hostCountry": "India",
+          "accountType": "Checking",
+          "currency": "ANG",
+          "crownContacts": ["Daisy GB", "Rita SG"],
+          "clientContacts": ""
+      },
+      "euUser": {
+          "email": "novoretestuat@yopmail.com",
+          "password": "Password03+"
+      },
+      "invalid": {
+          "invalidEmail": "Asasjd@sd.com",
+          "invalidPassword": "Passwo",
+          "invalidEmailFormat": "Adf"
+      },
+      "bankAccountDetails": {
+          "bankName": "Srijan test",
+          "bankAccountName": "Merry",
+          "nickName": "Test Nick",
+          "swiftCode": "IDIBINBBCTY",
+          "accountNo": "00000999999",
+          "ibanNo": "INR010199990000",
+          "phone": "90230129301",
+          "email": "Dikshita0710@yopmail.com",
+          "street": "LandView",
+          "city": "Vasco",
+          "zip": "3429384",
+          "country": "Afghanistan"
+      },
+      "expenseDetails": {
+          "expenseReportName": "Expense Travel",
+          "bankCountry": "Other Countries - Bangladesh"
+      }
+  }
+}
